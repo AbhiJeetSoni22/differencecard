@@ -1,8 +1,8 @@
 {
   "gameTitle": "Spot the Difference - Animals",
   "images": {
-    "image1": "../src/assets/image1.png",
-    "image2": "../src/assets/image2.png"
+    "image1": "/assets/image1.png",
+    "image2": "/assets/image2.png"
   },
   "differences": [
     {"x": 100, "y": 200, "width": 45, "height":45},
